@@ -62,7 +62,7 @@ const Footer = () => {
               <li>20042 Northcrest Sq</li>
               <li>Cupertino, CA 95014</li>
               <li>Phone: (408) 690-9518</li>
-              <li>Email: info@bayareayoga.com</li>
+              <li>Email: info@yoga-webpage-v58z.vercel.app</li>
             </ul>
           </div>
         </div>

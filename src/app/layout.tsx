@@ -12,14 +12,14 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://bayareayoga.com'),
+  metadataBase: new URL('https://yoga-webpage-v58z.vercel.app'),
   title: "Bay Area Yoga | Cupertino's Premier Yoga Studio",
   description: "Join our welcoming yoga community in Cupertino. Expert instruction in Vinyasa, Hatha, Power, and Yin yoga with Elena Gebhardt. Beautiful studio with natural light and bamboo floors. First class free!",
   keywords: "yoga, cupertino yoga, bay area yoga, yoga classes, vinyasa, hatha, power yoga, yin yoga, yoga studio, elena gebhardt, mindfulness, wellness, meditation",
   openGraph: {
     title: "Bay Area Yoga | Cupertino's Premier Yoga Studio",
     description: "Join our welcoming yoga community in Cupertino. Expert instruction in Vinyasa, Hatha, Power, and Yin yoga with Elena Gebhardt. Beautiful studio with natural light and bamboo floors. First class free!",
-    url: "https://bayareayoga.com",
+    url: "https://yoga-webpage-v58z.vercel.app",
     siteName: "Bay Area Yoga",
     images: [
       {
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     google: "verification_token",
   },
   alternates: {
-    canonical: "https://bayareayoga.com",
+    canonical: "https://yoga-webpage-v58z.vercel.app",
   },
   authors: [{ name: "Elena Gebhardt" }],
   category: "Fitness & Wellness",
