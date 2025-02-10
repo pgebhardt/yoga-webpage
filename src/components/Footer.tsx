@@ -59,9 +59,9 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-white/90">
-              <li>20042 Northcrest Sq</li>
+              <li>2847 Orchard Garden Lane</li>
               <li>Cupertino, CA 95014</li>
-              <li>Phone: (408) 690-9518</li>
+              <li>Phone: (408) 555-8142</li>
               <li>Email: info@yoga-webpage-v58z.vercel.app</li>
             </ul>
           </div>

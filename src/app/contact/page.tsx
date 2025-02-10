@@ -20,9 +20,9 @@ export default function Contact() {
             <div className="bg-white p-8 rounded-lg shadow-md">
               <h2 className="text-2xl font-semibold text-sage-dark mb-6">Studio Location</h2>
               <div className="space-y-4 text-sage-dark/80">
-                <p>20042 Northcrest Sq</p>
+                <p>2847 Orchard Garden Lane</p>
                 <p>Cupertino, CA 95014</p>
-                <p>Phone: (408) 690-9518</p>
+                <p>Phone: (408) 555-8142</p>
                 <p>Email: info@yoga-webpage-v58z.vercel.app</p>
               </div>
             </div>
