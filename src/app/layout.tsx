@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
@@ -6,7 +6,13 @@ import Footer from "@/components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
+
 export const metadata: Metadata = {
+  metadataBase: new URL('https://bayareayoga.com'),
   title: "Bay Area Yoga | Cupertino's Premier Yoga Studio",
   description: "Join our welcoming yoga community in Cupertino. Expert instruction in Vinyasa, Hatha, Power, and Yin yoga with Elena Gebhardt. Beautiful studio with natural light and bamboo floors. First class free!",
   keywords: "yoga, cupertino yoga, bay area yoga, yoga classes, vinyasa, hatha, power yoga, yin yoga, yoga studio, elena gebhardt, mindfulness, wellness, meditation",
@@ -35,10 +41,6 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
-  },
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
   },
   icons: {
     icon: "/favicon.ico",

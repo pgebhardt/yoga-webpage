@@ -7,7 +7,7 @@ export default function Contact() {
         <div className="text-center mb-16">
           <h1 className="text-4xl font-bold text-sage-dark mb-4">Contact Us</h1>
           <p className="text-xl text-sage-dark/80 max-w-2xl mx-auto">
-            Have a question or ready to start your yoga journey? We're here to help.
+            Have a question or ready to start your yoga journey? We&apos;re here to help.
           </p>
         </div>
 

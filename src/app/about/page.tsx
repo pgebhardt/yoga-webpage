@@ -34,10 +34,10 @@ export default function About() {
             <div>
               <h2 className="text-3xl font-bold text-sage-dark mb-6">Our Studio</h2>
               <p className="text-sage-dark/80 mb-6">
-                Located in the heart of the Bay Area, our studio provides a peaceful sanctuary away from the bustle of city life. With natural light, bamboo floors, and state-of-the-art props, we've created the perfect environment for your practice.
+                Located in the heart of the Bay Area, our studio provides a peaceful sanctuary away from the bustle of city life. With natural light, bamboo floors, and state-of-the-art props, we&apos;ve created the perfect environment for your practice.
               </p>
               <p className="text-sage-dark/80">
-                Our space is designed to be welcoming and inclusive, whether you're new to yoga or have been practicing for years. We believe that everyone deserves access to the transformative benefits of yoga.
+                Our space is designed to be welcoming and inclusive, whether you&apos;re new to yoga or have been practicing for years. We believe that everyone deserves access to the transformative benefits of yoga.
               </p>
             </div>
           </div>
@@ -79,7 +79,7 @@ export default function About() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-sage-dark mb-6">Our Philosophy</h2>
             <p className="text-sage-dark/80 max-w-3xl mx-auto">
-              We believe that yoga is more than just physical exercise—it's a path to overall wellness and self-discovery. Our approach combines traditional yoga principles with modern teaching methods to create an experience that nurtures body, mind, and spirit.
+              We believe that yoga is more than just physical exercise—it&apos;s a path to overall wellness and self-discovery. Our approach combines traditional yoga principles with modern teaching methods to create an experience that nurtures body, mind, and spirit.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
