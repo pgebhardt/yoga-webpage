@@ -123,7 +123,7 @@ export default function About() {
             </Link>
             <Link
               href="/contact"
-              className="inline-block bg-white text-sage-dark border border-white px-8 py-3 rounded-md text-lg font-medium hover:bg-sand transition-colors shadow-md"
+              className="inline-block bg-sand text-sage-dark px-8 py-3 rounded-md text-lg font-medium hover:bg-sand-dark transition-colors shadow-md"
             >
               Contact Us
             </Link>
