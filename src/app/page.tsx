@@ -14,6 +14,8 @@ export default function Home() {
             className="object-cover"
             style={{ objectPosition: '50% 35%' }}
             priority
+            quality={85}
+            sizes="100vw"
           />
           <div className="absolute inset-0 bg-black/60" />
         </div>

@@ -56,6 +56,8 @@ export default function Classes() {
                   alt={yogaClass.title}
                   fill
                   className="object-cover"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 600px"
+                  quality={85}
                 />
               </div>
               <div className="p-6">

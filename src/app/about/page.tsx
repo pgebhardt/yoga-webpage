@@ -27,7 +27,8 @@ export default function About() {
                   alt="Our yoga studio"
                   fill
                   className="object-cover rounded-lg"
-                  sizes="(max-width: 768px) 100vw, 50vw"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 600px"
+                  quality={85}
                 />
               </div>
             </div>
@@ -65,7 +66,8 @@ export default function About() {
                   alt="Elena Gebhardt - Yoga Instructor"
                   fill
                   className="object-cover rounded-lg"
-                  sizes="(max-width: 768px) 100vw, 50vw"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 600px"
+                  quality={85}
                 />
               </div>
             </div>
