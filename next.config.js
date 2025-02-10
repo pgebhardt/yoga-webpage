@@ -3,7 +3,7 @@ const nextConfig = {
   output: 'standalone',
   images: {
     remotePatterns: [],
-    domains: ['yoga-webpage-v58z.vercel.app'],
+    domains: ['yoga-webpage.vercel.app'],
     unoptimized: false
   },
   // Ensure proper handling of trailing slashes

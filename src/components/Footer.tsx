@@ -62,7 +62,7 @@ const Footer = () => {
               <li>2847 Orchard Garden Lane</li>
               <li>Cupertino, CA 95014</li>
               <li>Phone: (408) 555-8142</li>
-              <li>Email: info@yoga-webpage-v58z.vercel.app</li>
+              <li>Email: info@yoga-webpage.vercel.app</li>
             </ul>
           </div>
         </div>

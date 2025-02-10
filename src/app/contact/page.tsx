@@ -23,7 +23,7 @@ export default function Contact() {
                 <p>2847 Orchard Garden Lane</p>
                 <p>Cupertino, CA 95014</p>
                 <p>Phone: (408) 555-8142</p>
-                <p>Email: info@yoga-webpage-v58z.vercel.app</p>
+                <p>Email: info@yoga-webpage.vercel.app</p>
               </div>
             </div>
 
