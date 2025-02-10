@@ -23,7 +23,7 @@ export default function Contact() {
                 <p>20042 Northcrest Sq</p>
                 <p>Cupertino, CA 95014</p>
                 <p>Phone: (408) 690-9518</p>
-                <p>Email: contact@bayareayoga.com</p>
+                <p>Email: info@bayareayoga.com</p>
               </div>
             </div>
 
